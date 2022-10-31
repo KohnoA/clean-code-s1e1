@@ -48,6 +48,14 @@ button {
   margin: 0 auto;
 }
 
+.adding-tasks {
+  margin-bottom: 20px;
+}
+
+.adding-tasks .title {
+  margin-bottom: 20px;
+}
+
 .new-task-input,
 .task-description,
 .task-description-input {
