@@ -52,7 +52,7 @@ input,button{
 .task-description-input{
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .new-task-wrapper {
@@ -142,7 +142,7 @@ input,button{
 
 .task-description-input {
   display: none;
-  width: 226px
+  width: 226px;
 }
 
 .delete-task .button-image {
@@ -157,14 +157,14 @@ input,button{
 
 /* Completed */
 #completed-tasks .task-description {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .edit-mode .task-description-input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .edit-mode .task-description {
