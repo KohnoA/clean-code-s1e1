@@ -15,7 +15,7 @@ li {
 }
 
 input,
-button{
+button {
   outline: none;
 }
 
@@ -50,7 +50,7 @@ button{
 
 .new-task-input,
 .task-description,
-.task-description-input{
+.task-description-input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
