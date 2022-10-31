@@ -14,7 +14,8 @@ li {
   list-style: none;
 }
 
-input,button{
+input,
+button{
   outline: none;
 }
 
@@ -114,7 +115,8 @@ input,button{
 }
 
 /* Task list */
-.comleted-tasks-item, .incomlete-tasks-item {
+.comleted-tasks-item,
+.incomlete-tasks-item {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
