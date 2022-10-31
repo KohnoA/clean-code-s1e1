@@ -6,16 +6,16 @@ body {
 }
 
 ul {
-  margin:0;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 
 li {
-  list-style:none;
+  list-style: none;
 }
 
 input,button{
-  outline:none;
+  outline: none;
 }
 
 .header {
@@ -44,7 +44,7 @@ input,button{
 .main {
   display: block;
   width: 500px;
-  margin: 0 auto 0;
+  margin: 0 auto;
 }
 
 .new-task-input,
@@ -141,7 +141,7 @@ input,button{
 }
 
 .task-description-input {
-  display:none;
+  display: none;
   width: 226px
 }
 
@@ -163,10 +163,10 @@ input,button{
 
 /* Edit Task */
 .edit-mode .task-description-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .task-description {
-  display:none;
+  display: none;
 }
