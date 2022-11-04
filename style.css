@@ -106,7 +106,8 @@
   flex-grow: 1;
 }
 
-.task__text-input:focus {
+.task__text-input:focus,
+.adding-tasks__input {
   color: #333;
 }
 
